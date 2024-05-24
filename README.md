@@ -1,3 +1,1 @@
-Functional renormalization group implementation of the Periodic Anderson/Hubbard Model. 
-
-Languages: Python
+Python formulation (NumPy and SciPy) of functional renormalization group to solve a family of partial differential equations for Periodic Anderson/Hubbard type models.
